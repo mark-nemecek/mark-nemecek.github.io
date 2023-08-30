@@ -1,22 +1,29 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Value-based Transfer with Continuous Actions
+    authors: <strong>Mark Nemecek</strong>, Weisheng Jin, and Ronald Parr
+    conference_short: inprep
+    conference: In Preparation
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Hierarchical Learning with Successor Features
+    authors: <strong>Mark Nemecek</strong> and Ronald Parr
+    conference_short: inprep
+    conference: In Preparation
+
+  - title: "ROSARL: Reward-Only Safe Reinforcement Learning"
+    authors: Geraud Nangue Tasse, Tamlin Love, <strong>Mark Nemecek</strong>, Steven James, and Benjamin Rosman
+    conference_short: ur
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2306.00035
+
+  - title: Policy Caches with Successor Features
+    authors: <strong>Mark Nemecek</strong> and Ronald Parr
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2021.
+    pdf: https://proceedings.mlr.press/v139/nemecek21a.html 
+
+  - title: Transition Space Distance Learning
+    authors: <strong>Mark Nemecek</strong>
+    conference_short: duke
+    conference: Master's Thesis
+    pdf: https://dukespace.lib.duke.edu/dspace/handle/10161/18849
