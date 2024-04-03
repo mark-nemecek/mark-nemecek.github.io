@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. Candidate in the Computer Science Department at Duke University working with Ron Parr.
+I recently graduated with my Ph.D. from Duke University where I worked with Ron Parr on transfer learning in value-based reinforcement learning methods.
+
 
 ## Research Interests
 
