@@ -1,14 +1,14 @@
 main:
 
-  - title: Value-based Transfer with Continuous Actions
-    authors: <strong>Mark Nemecek</strong>, Weisheng Jin, and Ronald Parr
-    conference_short: inprep
-    conference: In Preparation
-
   - title: Hierarchical Learning with Successor Features
     authors: <strong>Mark Nemecek</strong> and Ronald Parr
     conference_short: inprep
     conference: In Preparation
+
+  - title: Value-based Transfer with Continuous Actions
+    authors: Weisheng Jin, <strong>Mark Nemecek</strong>, and Ronald Parr
+    conference_short: ur
+    conference: Under Review
 
   - title: "ROSARL: Reward-Only Safe Reinforcement Learning"
     authors: Geraud Nangue Tasse, Tamlin Love, <strong>Mark Nemecek</strong>, Steven James, and Benjamin Rosman
