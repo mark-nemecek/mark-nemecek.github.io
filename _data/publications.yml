@@ -1,5 +1,4 @@
 main:
-
   - title: Hierarchical Learning with Successor Features
     authors: <strong>Mark Nemecek</strong> and Ronald Parr
     conference_short: inprep
@@ -12,15 +11,15 @@ main:
 
   - title: "ROSARL: Reward-Only Safe Reinforcement Learning"
     authors: Geraud Nangue Tasse, Tamlin Love, <strong>Mark Nemecek</strong>, Steven James, and Benjamin Rosman
-    conference_short: ur
-    conference: Under Review
+    conference_short: RLSW
+    conference: Reinforcement Learning Safety Workshop <strong>(RLSW)</strong> at Reinforcement Learning Conference <strong>(RLC)</strong>, 2024
     pdf: https://arxiv.org/abs/2306.00035
 
   - title: Policy Caches with Successor Features
     authors: <strong>Mark Nemecek</strong> and Ronald Parr
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2021.
-    pdf: https://proceedings.mlr.press/v139/nemecek21a.html 
+    pdf: https://proceedings.mlr.press/v139/nemecek21a.html
 
   - title: Transition Space Distance Learning
     authors: <strong>Mark Nemecek</strong>
