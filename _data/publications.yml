@@ -13,7 +13,7 @@ main:
     authors: Geraud Nangue Tasse, Tamlin Love, <strong>Mark Nemecek</strong>, Steven James, and Benjamin Rosman
     conference_short: RLSW
     conference: Reinforcement Learning Safety Workshop <strong>(RLSW)</strong> at Reinforcement Learning Conference <strong>(RLC)</strong>, 2024
-    pdf: https://arxiv.org/abs/2306.00035
+    pdf: https://openreview.net/forum?id=9YwJYTgbuj
 
   - title: Policy Caches with Successor Features
     authors: <strong>Mark Nemecek</strong> and Ronald Parr
